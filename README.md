@@ -88,6 +88,34 @@ We would be building the app by using
 5. What we are going to try to figure out:
 - How to make the remained date (like '15 days left') and the date for next paying (like 'next payment: Nov.22th.2022') update automatically.
 
+
 6. Reference for future developing
 - Youtube tutorials
 - MDN sites
+
+## MIT license
+
+Copyright Kanak Kumar and Seunghyeon Yeom, 2021
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+# Contributor
+Kanak kumar and Seunghyeon Yeom
+>>>>>>> e14aeb64aa143279c1bb9b9bd9bdf242631784ef
