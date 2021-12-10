@@ -1,9 +1,6 @@
 # Roku Flashback Streaming App
 Part 1 - Prototyping and Scaffolding
 
-## Team Members
-By Seunghyeon Yeom and Kanak Kumar
-
 ## Provided site
 Roku (https://www.roku.com/en-ca/)
 
@@ -118,4 +115,3 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Contributor
 Kanak kumar and Seunghyeon Yeom
->>>>>>> e14aeb64aa143279c1bb9b9bd9bdf242631784ef
