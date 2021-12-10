@@ -1,8 +1,10 @@
 # Roku Flashback Streaming App
-## Part 1 - Prototyping and Scaffolding
-By Seunghyeon Yeom(0975764) and Kanak Kumar
+Part 1 - Prototyping and Scaffolding
+
+## Team Members
+By Seunghyeon Yeom and Kanak Kumar
 
 ## Provided site
-Roku Flashback
+Roku Flashback (https://www.roku.com/en-ca/)
 
-## 
+##
