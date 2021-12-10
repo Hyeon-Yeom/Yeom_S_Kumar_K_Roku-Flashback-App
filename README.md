@@ -5,11 +5,7 @@ Part 1 - Prototyping and Scaffolding
 By Seunghyeon Yeom and Kanak Kumar
 
 ## Provided site
-Roku Flashback (https://www.roku.com/en-ca/)
-
-Roku-flashback 
-
-  
+Roku (https://www.roku.com/en-ca/)
 
 ## Description
 An app for everybody to rewind.
@@ -40,10 +36,9 @@ We are in the process of making the app, and currently, we have come up with som
 -	Considering designing the background of the pop-up messages blurry to match the design of the categories as well as the ‘more detailed information’ pages for movies, tv shows or music.
 
 5.	Round boxes
--	Rounded boxes for content
--	Rounded buttons
+- To show the app smoothly: Rounded boxes for content and Rounded buttons are used.
 
-6.	What we focused for this design is
+6.	What we focused for this design:
 -	Smoothly showing and closing pages.
 -	Smoothly showing the messages, including error messages.
 -	Making people feel comfortable visually while they are using it.
@@ -55,6 +50,11 @@ We are in the process of making the app, and currently, we have come up with som
 -	Pencake
 -	Whatsapp
 -	Iphone’s designs for screens or pop-up windows, etc.
+
+8. What we're going to figure out:
+- How to visually deliver more effective order between 1950's and 1990's
+- How to make better prototype connection not to feel bored.
+- Better colour schemes for eye-catching.
 
 ## Developing
 
@@ -87,3 +87,7 @@ We would be building the app by using
 
 5. What we are going to try to figure out:
 - How to make the remained date (like '15 days left') and the date for next paying (like 'next payment: Nov.22th.2022') update automatically.
+
+6. Reference for future developing
+- Youtube tutorials
+- MDN sites
