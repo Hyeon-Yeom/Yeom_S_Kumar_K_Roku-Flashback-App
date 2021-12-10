@@ -88,7 +88,7 @@ We would be building the app by using
 5. What we are going to try to figure out:
 - How to make the remained date (like '15 days left') and the date for next paying (like 'next payment: Nov.22th.2022') update automatically.
 
-#MIT license
+# MIT license
 Copyright
 
 Permission is hereby granted, free of charge, to any person obtaining
@@ -110,5 +110,5 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Contributor
+# Contributor
 Kanak kumar and Seunghyeon Yeom
