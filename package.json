@@ -1,8 +1,0 @@
-{
-  "type": "module",
-  "devDependencies": {
-    "gulp": "^4.0.2",
-    "gulp-imagemin": "^8.0.0",
-    "gulp-sass": "^5.0.0"
-  }
-}
