@@ -1,15 +1,13 @@
 # Roku Flashback Streaming App
-Part 1 - Prototyping and Scaffolding
 
 ## Provided site
 Roku (https://www.roku.com/en-ca/)
 
-## Description
-An app for everybody to rewind.
+## Contributors & Role
+Kanak Kumar: Graphic Designer, Backend Developer
+Seunghyeon Yeom: UX/UI Designer, Frontend Developer
 
-The Flashback app is part of the Roku streaming service. Subscribers can use this app to access three separate flashback categories: movies, television (tv) and music. Each of these three sections is comprised exclusively of entertainment from 1950, 1960, 1970, 1980, and 1990 respectively. One of Flashback's main features is the differentiation of the user profile. Users are divided into two distinct categories: administrators (Parents) and Kids. Administrators (Parents) are able to control the content selected for the kid’s category.
-
-We are in the process of making the app, and currently, we have come up with some amazing ideas that would give an idea, a glimpse of what the app would be like.
+### Work Flow
 
 ## Designing
 1.	Software used
@@ -112,6 +110,3 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-# Contributor
-Kanak kumar and Seunghyeon Yeom
