@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    font-family: 'roboto';
+}
+
+.hidden {
+    display: none;
+}
+
+a, button {
+    cursor: pointer;
+}
+
+.container {
+    background-image: linear-gradient(to bottom, #000, #424040);
+    color: white;
+    font-family: 'roboto';
+    font-weight: 400;
+    font-size: 15px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logoBox img {
+    width: 20%;
+}
+
+.logoBox, .logo {
+    cursor: pointer;
+}
+
+.nav-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 30px auto;
+}
+
+.subNav button {
+    font-size: 15px;
+    font-weight: 450;
+    border-radius: 100px;
+    border: 2px solid #fff;
+    background-color: transparent;
+    color: white;
+    padding: 9px 15px;
+    margin: auto 10px;
+}
+
+.subNav button:hover {
+    background-color: white;
+    color: #424040;
+    transition: all .2s ease-in-out;
+}
+
+.contentNav {
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 20px auto;
+}
+
+.contentNav p {
+    margin: 0 50px;
+    padding-bottom: 3px;
+    border-bottom: 2px solid transparent;
+    cursor: pointer;
+}
+
+.contentNav p:hover {
+    border-bottom: 2px solid white;
+    transition: .2s all ease-in-out;
+}

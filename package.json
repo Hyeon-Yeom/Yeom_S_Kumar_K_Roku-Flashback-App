@@ -1,0 +1,25 @@
+{
+  "name": "yeom_s_kumar_k_roku-flashback-app",
+  "version": "1.0.0",
+  "description": "Part 1 - Prototyping and Scaffolding",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyeon-Yeom/Yeom_S_Kumar_K_Roku-Flashback-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hyeon-Yeom/Yeom_S_Kumar_K_Roku-Flashback-App/issues"
+  },
+  "homepage": "https://github.com/Hyeon-Yeom/Yeom_S_Kumar_K_Roku-Flashback-App#readme",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "sass": "^1.49.11",
+    "sass-loader": "^12.6.0"
+  }
+}
