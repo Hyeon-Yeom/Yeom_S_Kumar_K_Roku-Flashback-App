@@ -1,0 +1,18 @@
+.poster {
+    width: 200px;
+    align-items: center;
+    padding: 15px 15px;
+    border-radius: 20px;
+    filter: drop-shadow(5px 0 5px #000);
+}
+
+.poster:hover {
+    filter: drop-shadow(5px 0 6px rgba(123, 123, 123, 0.748));
+    cursor: pointer;
+    transition: all .25s ease-in;
+}
+
+.moviePosters {
+    width: 80%;
+    margin: 10px auto;
+}
