@@ -1,0 +1,100 @@
+.logoPromotion img {
+    width: 15%;
+    cursor: pointer;
+    margin-top: 50px;
+}
+
+.promotion-nav {
+    margin-top: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.promotion-op {
+    margin: auto 5px;
+    padding: 25px 150px;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    cursor: pointer;
+}
+
+.promotion-op:hover {
+    background-color: #292929;
+    border: 2px solid #292929;
+    transition: all .2s ease-in-out;
+}
+
+.promotion-op h2 {
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.promotion-op p {
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 5px;
+}
+
+.detailedInfo {
+    width: 1230px;
+    margin: 0 auto;
+}
+
+.detailed div {
+    margin-bottom: 20px;
+    background-color: #1a1a1a;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.detailed div p {
+    margin: 60px auto;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.detailed h3 {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #111;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.resolution {
+    padding-top: 30px;
+}
+
+.resolution .des {
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    margin-right: 11%;
+}
+
+.back {
+    padding: 10px 21px;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 100px;
+    cursor: pointer;
+    font-size: 20px;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.back:hover {
+    background-color: #292929;
+    border: 2px solid #292929;
+    filter: drop-shadow(0px 3px 5px #000);
+}
