@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Hyeon-Yeom/Yeom_S_Kumar_K_Roku-Flashback-App#readme",
   "dependencies": {
     "babel-eslint": "^10.1.0",
-    "sass": "^1.49.11",
+    "sass": "^1.50.0",
     "sass-loader": "^12.6.0"
   }
 }
