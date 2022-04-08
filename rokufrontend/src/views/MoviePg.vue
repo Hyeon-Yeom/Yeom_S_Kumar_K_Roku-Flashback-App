@@ -6,6 +6,12 @@
 
         <div class="movieHeading">
             <h2 class="subtitle">MOVIES <br> <span class="spanTag-date">1960's - 2000's</span></h2>
+            
+            <div class="announcing">
+                <p>Currently, we can provide these following 10 movies: <br>
+                []. <br> Sorry for inconvenience.</p>
+            </div>
+
             <div class="subtitle-categor">
                 <h3 class="subtitle-date">1960's</h3>
             </div>
