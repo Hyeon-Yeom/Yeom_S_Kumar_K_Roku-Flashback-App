@@ -5,11 +5,11 @@
         </div>
 
         <div class="movieHeading">
-            <h2 class="subtitle">MOVIES <br> <span class="spanTag-date">1960's - 2000's</span></h2>
+            <h2 class="subtitle">MOVIES<br><span class="spanTag-date">1960's - 2000's</span></h2>
             
             <div class="announcing">
-                <p>Currently, we can provide these following 10 movies: <br>
-                []. <br> Sorry for inconvenience.</p>
+                <p>Currently, we can provide only these following <span class="available-movies">10 movies:</span> <br>
+                'Almost Famous', 'Zodiac', 'Get Ready', 'Volver', 'History of Violence', 'Moon', 'I'm Not There', 'Hard Candy', 'Funny Games', 'Death Proof'. <br> Sorry for inconvenience.</p>
             </div>
 
             <div class="subtitle-categor">
