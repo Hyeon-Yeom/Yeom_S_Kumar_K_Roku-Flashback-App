@@ -1,0 +1,16 @@
+{
+  "name": "roku-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.50.0",
+    "sass-loader": "^12.6.0"
+  }
+}
