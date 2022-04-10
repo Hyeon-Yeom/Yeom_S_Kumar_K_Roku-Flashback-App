@@ -2,7 +2,7 @@
   <div class="container container-bgrd">
 
     <div class="appContainer">
-      <router-view></router-view>
+      <router-view :key="$route.path" :loggedin="authenticated" :role="role" @setauth="setAuthenticated"></router-view>
     </div>
 
   </div>
@@ -20,6 +20,21 @@ export default {
 
   views: {
     Start
+  },
+
+  data() {
+    return {
+      authenticated: false,
+      role: 0
+    }
+  },
+
+  methods: {
+    setAuthenticated(status) {
+      debugger;
+      this.authenticated = status.status;
+      this.role = status.role;
+    }
   }
 }
 </script>
