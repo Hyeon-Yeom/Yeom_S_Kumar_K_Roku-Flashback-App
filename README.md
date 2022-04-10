@@ -7,90 +7,70 @@ Roku (https://www.roku.com/en-ca/)
 Kanak Kumar: Graphic Designer, Backend Developer
 Seunghyeon Yeom: UX/UI Designer, Frontend Developer
 
-### Work Flow
+## Repository Links
+1. Frontend repository link: https://github.com/Hyeon-Yeom/Yeom_S_Kumar_K_Roku-Flashback-App
+2. Backend repository link: https://github.com/kanak2421/Kumar_k_Yeom_S_Roku_backend
+3. API repository link: https://github.com/kanak2421/Kumar_k_Yeom_S_API
+4. Assets: 
+(Zipped assets have been submitted already. This is the google drive link, just in case.)
 
-## Designing
-1.	Software used
+* Please display the folders, images, video and audio, through this path "src/assets/".
+The folders should be named "images", "video" and "audio", and the path should be "src/assets/images", "src/assets/video", and "src/assets/audio".
+
+* On "All" page on the website,
+
+## Work Flow With Difficulties
+
+1. 
+
+## Design
+*https://docs.google.com/document/d/1mVgbV_YWN2Ebz9Mcq8cpH-kBl8J34RDsqGawIzbR3Oo/edit?usp=sharing*
+
+1.	Software
 -	Adobe Xd
 -	Photoshop
 -	Illustrator
 
-2.	Font
--	Gotham Font, which is used in Roku Website
+2.  Design References
+-   Dribble: https://dribbble.com/shots/5407592-Premiere
+    Roku Flashback: https://channelstore.roku.com/en-ca/browse/games
 
-3.	Blurry Background
--	To make users feel refresh while using this app.
--	Considered to show this app is quite smooth, and blurry background would be great to realize it.
+3.	Font
+-	Roboto (Regular and Bold)
 
-4.	Pop-up Messages
--	Pop-up messages are used with different and various comment.
+4.	Colour Scheme
+-   #111111, #303030, #ffffff, #00455F, #7b92c6.
 
-    For instance, ‘Downloaded successfully’ / ‘Sorry, failed to download’ / ‘Check your internet connect’, etc.
+5.  UI Design Elements
+-   Black Gradient Background (#111111, #303030)
+-	100px rounded Buttons and slightly rounded each poster: Expected to give the feelings of comfortableness.
+-   White drop shadow on the buttons and the posters when hovering: Expected to make it look like glow.
+-   Section devided depending on the Year (1960's - 2000's)
 
--	Considered the pop-up messages are effective to deliver messages well.
--	Considering designing the background of the pop-up messages blurry to match the design of the categories as well as the ‘more detailed information’ pages for movies, tv shows or music.
+## Development
+1. Frontend (Branch - dev.ysh.frontend, main)
 
-5.	Round boxes
-- To show the app smoothly: Rounded boxes for content and Rounded buttons are used.
+-   Mainly used: vue.js, json, sass/css, javascript, npm, git.
 
-6.	What we focused for this design:
--	Smoothly showing and closing pages.
--	Smoothly showing the messages, including error messages.
--	Making people feel comfortable visually while they are using it.
--	Following the latest trend.
+-   index.js as a router has been important role to make the vue and scss files functional.
+-   Vue.js has been used for the front-end development.
+-   Scss has been used to stylize the front-end design.
+-   Npm dependencies, sass, sass-loader, express have been used as well.
+-   Through, vue.config.js has been used for API.
+-   WAMP/MAMP have been used to overview the works.
 
-7.	Referred sites or applications for designing
--	Youtube
--	Netflix
--	Pencake
--	Whatsapp
--	Iphone’s designs for screens or pop-up windows, etc.
+2. Backend
 
-8. What we're going to figure out:
-- How to visually deliver more effective order between 1950's and 1990's
-- How to make better prototype connection not to feel bored.
-- Better colour schemes for eye-catching.
-
-## Developing
-
-1.	Use
-
-To overview the work download WAMP/MAMP/LAMP, git clone to the server directory, put the folder to the htdocs, then run it in the localhost by importing the database, here you see the work.
-
-We would be building the app by using 
-
-•	Html 5
-•	JavaScript
-•	PHP
-•	SASS/CSS
-•	MySQL
-•	Vue.js
-•	Bootstrap
-
-2. Branches
-- Planning to create basic file branch for html, css, and js, ajax branch, vue.js branch for more complicated works.
-
-3. What we're going to focus on:
-- To show the pop-up messages smoothly and to move to another page smoothly as well.
-- To show the preview videos, play and stop it automatically.
-- Mute/unmute option on the preview video.
-- Sound effects when clicking or moving to another page.
-- Trying to use vue.js for some pop-up messages and windows.
-
-4. Audio
-- Short Sound effects when the element selected like play button.
-
-5. What we are going to try to figure out:
-- How to make the remained date (like '15 days left') and the date for next paying (like 'next payment: Nov.22th.2022') update automatically.
-
-
-6. Reference for future developing
-- Youtube tutorials
-- MDN sites
+3. References we used
+- Class files & Class videos
+- Youtube Intructions
+- Code-pen Website
+- MDN Website
+- W3schools Website
 
 ## MIT license
 
-Copyright Kanak Kumar and Seunghyeon Yeom, 2021
+Copyright Kanak Kumar and Seunghyeon Yeom, 2022
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
