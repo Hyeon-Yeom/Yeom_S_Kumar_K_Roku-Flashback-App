@@ -49,7 +49,7 @@ export default {
     }, 
 
     created() {
-        fetch('/movies')
+        fetch('/movie')
             .then(res => res.json())
             .then(data => {
                 console.log(data);
