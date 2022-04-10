@@ -10,7 +10,37 @@ import SubscribeOptions from '../components/SubscribeOptions.vue'
 import Posters from '../components/Posters.vue'
 import Nav from '../components/Nav.vue'
 
+import User from '../components/User.vue'
+import Login from '../views/Login.vue'
+import UserSelect from '../views/UserSelect.vue'
+import Home from '../views/Home.vue'
+
 const routes = [
+  {
+    path: '/login',
+    name: 'login',
+    component: Login
+  },
+
+  {
+    path: '/users',
+    name: 'users',
+    component: User
+  },
+
+  {
+    path: '/userselect',
+    name: 'UserSelect',
+    component: UserSelect
+  },
+
+  {
+    path: '/Home',
+    name: 'UserHome',
+    component: Home,
+    props: true
+  },
+
   {
     path: '/',
     name: 'start',

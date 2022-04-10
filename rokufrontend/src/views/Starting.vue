@@ -6,7 +6,7 @@
 
         <div class="button-list">
             <button @click="register" class="welcoming register-startingPG" >Register</button>
-            <button @click="Accout" class="welcoming login-startingPG">log In</button>
+            <button @click="Login" class="welcoming login-startingPG">log In</button>
         </div>
 
         <div class="anonymous-btn-box">
@@ -35,8 +35,8 @@ export default {
             this.$router.push({ name: 'register' });
         },
 
-        Account() {
-            this.$router.push({ name: 'account' });
+        Login() {
+            this.$router.push({ name: 'login' });
         }
     }
 }
