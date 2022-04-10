@@ -1,0 +1,58 @@
+.musicHeading {
+    width: 68%;
+    margin: 100px auto 0 auto;
+}
+
+.subtitle {
+    margin: -20px auto 80px auto;
+    font-weight: 300;
+    font-size: 310%;
+}
+
+.spanTag-date-music {
+    font-size: 38%;
+    font-weight: 400;
+    border-radius: 100px;
+    border: 2px solid #82d595;
+    background-color: #38c876;
+    padding: 9px 15px;
+}
+
+.subtitle-categor {
+    display: flex;
+    justify-content: left;
+    width: 80%;
+}
+
+.subtitle-date {
+    align-self: left;
+    width: 60px;
+    text-align: center;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.841);
+    border-radius: 100px;
+    border: 2px solid #000000;
+    background-color: #252525;
+    filter: drop-shadow(0 2px 4px #000);
+    padding: 9px 15px;
+}
+
+.genres {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.genres p {
+    display: block;
+    padding: 9px 15px;
+    border-radius: 100px;
+    border: 2px solid #ededed;
+    font-size: 13px;
+    white-space: nowrap;
+    margin-left: 10px;
+    align-items: center;
+    text-align: center;
+}

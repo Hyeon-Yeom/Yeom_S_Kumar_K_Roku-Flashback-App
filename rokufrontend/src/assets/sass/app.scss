@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    font-family: 'roboto';
+}
+
+.hidden {
+    display: none;
+}
+
+a, button {
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+}
+
+.container {
+    background-image: linear-gradient(to bottom, #111, #303030);
+    color: white;
+    font-family: 'roboto';
+    font-weight: 400;
+    font-size: 15px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container-bgrd {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}

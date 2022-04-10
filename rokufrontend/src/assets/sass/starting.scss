@@ -1,0 +1,69 @@
+.greeting {
+    font-size: 25px;
+    font-weight: 400;
+    margin: 20px auto;
+}
+
+.logoRoku {
+    width: 30%;
+    margin: 24% auto 0 auto;
+}
+
+.button-list {
+    display: flex;
+    flex-direction: row;
+    margin: 35px;
+    margin-bottom: 22%;
+}
+
+.welcoming {
+    margin: 0 auto;
+    padding: 9px 20px;
+    border: 2px solid white;
+    border-radius: 100px;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    margin: auto 10px;
+}
+
+.welcoming:hover {
+    border: 2px solid #313131;
+    background-color: #313131;
+    filter: drop-shadow(0 4px 5px #000);
+    transition: all .2s ease-in-out;
+}
+
+.anonymous {
+    font-size: 18px;
+    font-weight: 400;
+    background-color: transparent;
+    color: #ffffff80;
+    padding-bottom: 3px;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    border-bottom: 2px solid #ffffff80;
+    width: 185px;
+    margin: 0 auto 1% auto;
+}
+
+.anonymous:hover {
+    color: #ffffff;
+    border-bottom: 2px solid #fff;
+}
+
+.anonymous-btn {
+    display: flex;
+    flex-direction: column;
+}
+
+.anonymous-btn p {
+    font-size: 18px;
+    font-weight: 400;
+    color: #ffffff80;
+}
+
+.anonymous-btn-box {
+    margin-bottom: 30px;
+}
