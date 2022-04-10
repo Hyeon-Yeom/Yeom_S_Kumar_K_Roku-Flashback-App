@@ -25,10 +25,10 @@ module.exports = {
             pathRewrite: { '^/users' : '' }
         },
 
-        '/movies': {
+        '/movie': {
           target: `${API_URL}`,
           changeOrigin: true,
-          pathRewrite: { '^/movies' : '' }
+          pathRewrite: { '^/movie' : '' }
         }
       }
     }
