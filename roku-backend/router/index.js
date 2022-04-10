@@ -6,14 +6,16 @@ const sql = require('mysql');
 router.use(express.json());
 router.use(express.urlencoded({ 'extended' : false }));
 // create connection using database credentials stored in config.js file
-  let pool = sql.createPool({
-        connectionLimit:20,
+ let pool = sql.createPool({
+       connectionLimit:20,
         host : config.host,
         user : config.user,
         password : config.password,
         database : config.database,
         port: 3306
     });
+  
+    
 
     router.post('/signup', (req, res) => {
       console.log('hit add user route');
@@ -42,6 +44,7 @@ router.use(express.urlencoded({ 'extended' : false }));
 
       pool.getConnection((err, connection) => {
         if (err) throw err;
+         
 
         //getting user from incoming route request ( the data passed from front end)
         let currentUser = req.body,
@@ -97,5 +100,7 @@ router.use(express.urlencoded({ 'extended' : false }));
           })
       })
   })
+
+   
 
     module.exports = router;
