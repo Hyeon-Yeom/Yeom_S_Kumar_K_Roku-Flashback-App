@@ -1,0 +1,25 @@
+.users {
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.users-headline { font-size: 45px; margin-bottom: 100px; }
+
+.users-container { 
+    display: flex;
+    justify-content: center;
+    max-width: 80%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.users-container .user-panel {
+    position: relative;
+    flex: 0 1 150px; 
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 0.5em;
+    margin: 0 1em 1.5em;;
+    background-color: #333;
+    cursor: pointer;
+
+    img { margin-bottom: 0.75em; }
+}

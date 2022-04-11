@@ -11,17 +11,12 @@ Seunghyeon Yeom: UX/UI Designer, Frontend Developer
 1. Frontend repository link: https://github.com/Hyeon-Yeom/Yeom_S_Kumar_K_Roku-Flashback-App
 2. Backend repository link: https://github.com/kanak2421/Kumar_k_Yeom_S_Roku_backend
 3. API repository link: https://github.com/kanak2421/Kumar_k_Yeom_S_API
-4. Assets: 
-(Zipped assets have been submitted already. This is the google drive link, just in case.)
+4. Assets:
 
 * Please display the folders, images, video and audio, through this path "src/assets/".
 The folders should be named "images", "video" and "audio", and the path should be "src/assets/images", "src/assets/video", and "src/assets/audio".
 
 * On "All" page on the website,
-
-## Work Flow With Difficulties
-
-1. 
 
 ## Design
 *https://docs.google.com/document/d/1mVgbV_YWN2Ebz9Mcq8cpH-kBl8J34RDsqGawIzbR3Oo/edit?usp=sharing*
@@ -58,8 +53,6 @@ The folders should be named "images", "video" and "audio", and the path should b
 -   Npm dependencies, sass, sass-loader, express have been used as well.
 -   Through, vue.config.js has been used for API.
 -   WAMP/MAMP have been used to overview the works.
-
-2. Backend
 
 3. References we used
 - Class files & Class videos

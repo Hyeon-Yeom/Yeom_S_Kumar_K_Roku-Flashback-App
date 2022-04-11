@@ -1,27 +1,12 @@
-import { createServer } from 'http';
-// Changes start here
-import path from 'path';
+const express = require('express');
 
-const basePath = process.cwd();
 const port = process.env.PORT || 3000;
 
 const app = express();
-const httpServer = createServer(app);
+const router = require('./router/index');
 
-app.use(express.static(path.join(basePath, './dist')));
+app.use('/users', router);
 
-// Serve up the front end
-app.get('/', (req, res) => {
-    res.sendFile(index.html);
+app.listen(port, () => {
+    console.log(`app is up and running on ${port}`)
 })
-
-const io = new Server(httpServer, {
-    cors: {
-        origin: "*",
-        methods: ["GET", "POST"]
-    }
-});
-
-httpServer.listen(port, () => {
-    console.log(`chat server up and running on ${port}`);
-});
