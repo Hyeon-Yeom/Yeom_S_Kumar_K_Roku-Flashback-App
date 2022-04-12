@@ -3,9 +3,8 @@
 ## Provided site
 Roku (https://www.roku.com/en-ca/)
 
-## Contributors & Role
-Kanak Kumar: Graphic Designer, Backend Developer
-Seunghyeon Yeom: UX/UI Designer, Frontend Developer
+## Role
+Seunghyeon Yeom: UX/UI Designer, Full Stack Developer
 
 ## Repository Links
 1. Frontend repository link: https://github.com/Hyeon-Yeom/Yeom_S_Kumar_K_Roku-Flashback-App
