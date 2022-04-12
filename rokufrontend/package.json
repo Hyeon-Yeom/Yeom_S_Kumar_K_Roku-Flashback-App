@@ -2,12 +2,12 @@
   "name": "rokufrontend",
   "version": "0.1.0",
   "private": true,
-  "main": "lib/functions/src/index.js",
+  "main": "/node_modules/@eslint/eslintrc/lib/index.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "start": "nodemon --exec babel-node lib/functions/src/index.js"
+    "start": "nodemon --exec babel-node node_modules/@eslint/eslintrc/lib/index.js"
   },
   "dependencies": {
     "core-js": "^3.8.3",
