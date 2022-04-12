@@ -1,6 +1,8 @@
 <template>
   <div class="container container-bgrd">
 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <div class="appContainer">
       <router-view :key="$route.path" :loggedin="authenticated" :role="role" @setauth="setAuthenticated"></router-view>
     </div>
