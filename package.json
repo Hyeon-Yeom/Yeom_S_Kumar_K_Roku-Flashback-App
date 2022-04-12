@@ -2,9 +2,9 @@
   "name": "yeom_s_kumar_k_roku-flashback-app",
   "version": "1.0.0",
   "description": "Part 1 - Prototyping and Scaffolding",
-  "main": "gulpfile.js",
+  "main": "node_modules/@eslint/eslintrc/lib/index.js",
   "scripts": {
-    "test": "nodemon"
+    "start": "nodemon --exec babel-node node_modules/@eslint/eslintrc/lib/index.js"
   },
   "repository": {
     "type": "git",
