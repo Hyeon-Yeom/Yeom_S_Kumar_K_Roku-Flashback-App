@@ -62,7 +62,7 @@ The folders should be named "images", "video" and "audio", and the path should b
 
 ## MIT license
 
-Copyright Kanak Kumar and Seunghyeon Yeom, 2022
+Copyright Seunghyeon Yeom, 2022
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
